@@ -8,6 +8,8 @@ Ejecutar "php artisan migrate" sobre la carpeta para generar las tablas
 
 Ejecutar "php artisan serve" sobre la carpeta para ejecutar el proyecto
 
-Pd: Debes tener composer
-
 El proyecto se ejecutara sobre http://127.0.0.1:8000
+
+Pd 1: Debes tener composer
+
+Pd 2: Es clave darle al boton guardar datos en db, para ver los datos en los botones edit y editarlos
